@@ -3628,10 +3628,10 @@ enhanced-resolve@^5.14.1:
     graceful-fs "^4.2.4"
     tapable "^2.2.0"
 
-enhancedocs-chat@^1.1.4:
-  version "1.1.4"
-  resolved "https://registry.yarnpkg.com/enhancedocs-chat/-/enhancedocs-chat-1.1.4.tgz#c20ef90d46798dbfde420bdb43213af3541d3943"
-  integrity sha512-HF7waO9BWHROkaqZVdCRIYBmnXYdZfIakA/oX//5DNTF7GoOJYxmVKgoMcHUiDutJzP7GsrXCiROI4tfK9BTiQ==
+enhancedocs-chat@^1.1.9:
+  version "1.1.9"
+  resolved "https://registry.yarnpkg.com/enhancedocs-chat/-/enhancedocs-chat-1.1.9.tgz#a56199b898589f877eb6c9e4365f44629a2562ee"
+  integrity sha512-pXngKf/pHw8wRiU8MeiNYJKBV/RuZz8OY/Ww3jCKpb34cxJ05o74t16Wxg28tLAoVqIj8XBsXH+dMb4X59I0Ow==
   dependencies:
     mixpanel-browser "^2.47.0"
     react-markdown "^8.0.7"
